@@ -7,8 +7,8 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/ArugaZ/whatsapp-bot.git
-> cd whatsapp-bot
+> git clone https://github.com/alexanderyeremi/Bot-AlexanderV3
+> cd Bot-AlexanderV3
 ```
 
 Install the dependencies:
